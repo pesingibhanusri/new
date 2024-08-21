@@ -1,0 +1,21 @@
+#w{
+    font-size: 160px;
+    background-color: black;
+    color:red;
+    background-image:url("https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2021/12/Womens-Clothing.jpg") ;
+    font-style: italic;
+
+}
+#m{
+    font-size: 160px;
+    background-color: black;
+    color:red;
+    background-image: url("https://static.thehoneycombers.com/wp-content/uploads/sites/2/2020/01/local-menswear-online-benjamin-barker-facebook-header-900x643.jpg");
+    font-style: oblique;
+}
+#k {   
+     font-size: 160px;
+    background-color: black;
+    color:deeppink;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE88HoYD7WA6ZkvW9uF-eM9cq3eX8yupfxKA&s") ;
+}
